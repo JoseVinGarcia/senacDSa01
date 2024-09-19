@@ -1,0 +1,7 @@
+Análise de Dados com Big Data Science
+Aula 1 - Dia 10/09/2024
+Aluno: José Vinícius Garcia
+
+1. O que é programa de computador?
+Qualquer algoritmo digital que realize uma tarefa.
+
